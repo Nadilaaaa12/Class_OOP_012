@@ -17,5 +17,8 @@ public :
 		cout << "\nNIM : " << nim << endl;
 		cout << "Nama : " << nama << endl;
 	}
+};
 
+class Matakuliah {
+Private:
 };
