@@ -39,3 +39,7 @@ void Matakuliah::InputMK() {
 	cout << "Memasukkan Sks Mata Kuliah : ";
 	cin >> sks;
 }
+
+void Matakuliah::TampilMK() {
+
+}
