@@ -20,7 +20,7 @@ public :
 };
 
 class Matakuliah {
-Private:
+private:
 	string kode;
 	string namamk;
 	int sks;
@@ -28,4 +28,9 @@ Private:
 public:
 	void InputMK();
 	void TampilMK();
+
 };
+
+void Matakuliah::InputMK() {
+
+}
