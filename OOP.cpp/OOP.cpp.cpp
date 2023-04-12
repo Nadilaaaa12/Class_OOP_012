@@ -33,6 +33,7 @@ public:
 
 void Matakuliah::InputMK() {
 	cout << "\nMasukkan kode Mata Kuliah : ";
+	cin >> kode;
 	
 	
 	
