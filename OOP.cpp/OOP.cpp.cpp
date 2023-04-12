@@ -13,5 +13,8 @@ public :
 		cout << "Masukkan Nama : ";
 		cin >> nama;
 	}
+	void tampildata() {
+
+	}
 
 };
