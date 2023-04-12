@@ -21,4 +21,5 @@ public :
 
 class Matakuliah {
 Private:
+	string kode;
 };
