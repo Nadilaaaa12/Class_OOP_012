@@ -52,5 +52,6 @@ int main()
 	Matakuliah mk;
 
 	mhs.inputdata();
+	mhs.tampildata();
 
 }
