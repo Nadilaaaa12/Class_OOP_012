@@ -48,5 +48,7 @@ void Matakuliah::TampilMK() {
 
 int main()
 {
+	Mahasiswa mhs;
+	Matakuliah mk;
 
 }
