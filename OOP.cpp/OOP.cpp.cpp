@@ -23,4 +23,9 @@ class Matakuliah {
 Private:
 	string kode;
 	string namamk;
+	int sks;
+
+public:
+	void InputMK();
+	void TampilMK();
 };
