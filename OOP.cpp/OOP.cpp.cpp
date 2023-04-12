@@ -14,7 +14,7 @@ public :
 		cin >> nama;
 	}
 	void tampildata() {
-
+		cout << "\nNIM : " << nim << endl;
 	}
 
 };
