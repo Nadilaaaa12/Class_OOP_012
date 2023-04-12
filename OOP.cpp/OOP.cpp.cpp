@@ -45,3 +45,8 @@ void Matakuliah::TampilMK() {
 	cout << "Nama MataKuliah : " << namamk << endl;
 	cout << "Jumlah SKS : " << sks << endl;
 }
+
+int main()
+{
+
+}
